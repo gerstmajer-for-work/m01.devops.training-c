@@ -7,7 +7,7 @@ This is a simple C project demonstrating basic CI/CD steps:
 - **Linting:** Running static analysis (using cppcheck) to catch potential issues.
 
 ## Directory Structure
-
+ 
 ```
 c-demo-project/
 ├── include/
